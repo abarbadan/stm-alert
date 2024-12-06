@@ -62,7 +62,7 @@ if __name__ == "__main__":
         image = Image.fromarray(image, "RGB")
         display.show(image)
     sleep(5)
-    displays[1].show(Image.open("../examples/cat.jpg"))
+    displays[1].show(Image.open("./cat.jpg"))
     sleep(5)
     for display in displays:
         display.shutdown()
