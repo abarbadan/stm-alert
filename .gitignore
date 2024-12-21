@@ -1,4 +1,4 @@
 *__pycache__*
 stm_alert.egg-info/
 *.lgd-nfy0*
-stm_alert/gtfs/secrets.yaml
+stm_alert/gtfs/configs/*.yaml
