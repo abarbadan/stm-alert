@@ -48,7 +48,7 @@ spidev==3.6
 st7735==1.0.0
 st7789==1.0.1
 stack-data==0.6.3
--e git+ssh://git@github.com/abarbadan/stm-alert.git@f572d2a5df23545e35ed1b8eb1bb4b3af7929828#egg=stm_alert
+-e .
 tomli==2.2.1
 traitlets==5.14.3
 typing_extensions==4.12.2
