@@ -2,3 +2,4 @@
 stm_alert.egg-info/
 *.lgd-nfy0*
 stm_alert/gtfs/configs/*.yaml
+*.npz
